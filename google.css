@@ -1,0 +1,26 @@
+
+.BOX {
+    background: blue;
+    width: 500px;
+}
+
+.googlelogo {
+    margin: 0px 800px 0px 800px;
+    width: 351;
+    height: 113;
+    aspect-ratio: 351 / 113;
+
+}
+
+.aramayeri { 
+    margin: auto;
+  width: 95%;
+  padding: 10px;
+    
+}
+
+.telif {
+    margin: auto;
+    width: 10%;
+    padding: 10px;
+}
